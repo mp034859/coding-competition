@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # cerner_2^5_2019
 # Author: Michael Percival
-# Run this program on a full scr terminal to improve productivity at work :) (try git bash if you are on windows).
+# Run this program on a full screen terminal to improve productivity at work :) (try git bash if you are on windows).
 # Requires python 3.
 
 import os, sys, random, time
